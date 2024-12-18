@@ -82,7 +82,7 @@ body{
     gap: 0.5rem;
 }
 .p_image{
-    width: 27.5rem;
+    width: 100%;
 }
 .p_info{
     height: 3rem;
