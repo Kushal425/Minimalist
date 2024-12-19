@@ -291,3 +291,6 @@ footer{
     font-weight: 600;
     font-style: normal;
 }
+.contact_button:hover{
+    background-color: #d2d2cd;
+}
