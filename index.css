@@ -89,6 +89,9 @@ body{
 .p_image{
     width: 100%;
 }
+.p_image:hover{
+    border: 5px solid #1D221B;
+}
 .p_info{
     height: 3rem;
 }
